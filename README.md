@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamza</h1>
 <h3 align="center">A passionate Android Developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-hamza-eita" alt="ahmed-hamza-eita" /></a> </p>
+ 
 
 <p align="left"> <a href="https://twitter.com/ahmedhamza0_" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedhamza0_?logo=twitter&style=for-the-badge" alt="ahmedhamza0_" /></a> </p>
 
