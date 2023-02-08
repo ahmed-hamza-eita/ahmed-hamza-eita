@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/ahmedhamza0_" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedhamza0_?logo=twitter&style=for-the-badge" alt="ahmedhamza0_" /></a> </p>
 
 
-- 🌱 I’m currently learning **Advanced of android studio**
+- 🌱 I’m currently learning **Advanced of android**
 
 - 💬 Ask me about **java , oop , Android studio**
 
