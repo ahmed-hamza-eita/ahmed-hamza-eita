@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced of android**
 
-- 💬 Ask me about **java , kotlin , oop , Android studio**
+- 💬 Ask me about **java , kotlin , OOP , Android studio**
 
 - 📫 How to reach me **aeita4@yahoo.com**
 
