@@ -32,9 +32,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg](https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg)" alt="excel" width="40" height="40"/>
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
 </a>
+
 
 <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
