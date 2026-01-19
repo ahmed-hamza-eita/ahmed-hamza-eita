@@ -33,7 +33,7 @@
 <p align="left">
 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg](https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg)" alt="excel" width="40" height="40"/>
 </a>
 
 <a href="https://www.python.org" target="_blank">
