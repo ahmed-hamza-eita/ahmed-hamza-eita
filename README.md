@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamza</h1>
-<h3 align="center">A passionate Junior Data Analyst with a Computer Science background</h3>
+<h3 align="center">
+Junior Data Analyst | Computer Science Graduate | Mobile Development Background
+</h3>
 
 ---
 
-- 📊 I’m currently learning **Data Analysis (Excel, SQL, Python, Power BI)**
+- 📊 Currently focused on **Data Analysis (Excel, SQL, Python, Power BI)**
+- 📱 Previous experience in **Mobile Development (Android – Kotlin & Java)**
 - 🔍 Interested in **Data Cleaning, EDA, Reporting, and Business Insights**
-- 💬 Ask me about **Excel, SQL, Python (Pandas), Data Analysis concepts**
+- 💬 Ask me about **Excel, SQL, Python, and Mobile Development basics**
 - 📫 How to reach me **aeita4@yahoo.com**
 - ⚡ Fun fact: **Every insight starts with raw data**
 
@@ -29,13 +32,12 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Data Analysis Tools</h3>
 <p align="left">
 
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
 </a>
-
 
 <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -53,8 +55,27 @@
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+---
+
+<h3 align="left">Previous Experience – Mobile Development</h3>
+<p align="left">
+
+<a href="https://developer.android.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+</a>
+
+<a href="https://kotlinlang.org" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </a>
 
 </p>
