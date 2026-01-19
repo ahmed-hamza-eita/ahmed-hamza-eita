@@ -16,7 +16,7 @@ Junior Data Analyst | Computer Science Graduate | Mobile Development Background
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ah_hamza0" target="blank">
+<a href="https://twitter.com/a_h4mz4" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/ahmed-hamza-eita" target="blank">
@@ -25,7 +25,7 @@ Junior Data Analyst | Computer Science Graduate | Mobile Development Background
 <a href="https://fb.com/ahmedhamzaeita1" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
-<a href="https://instagram.com/ah_hamza0" target="blank">
+<a href="https://instagram.com/a.h4mz4 target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </p>
