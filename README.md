@@ -5,12 +5,11 @@ Software Developer
 
 ---
 
-- 📊 Currently focused on **Data Analysis (Excel, SQL, Python, Power BI)**
-- 📱 Previous experience in **Mobile Development (Android – Kotlin & Java)**
-- 🔍 Interested in **Data Cleaning, EDA, Reporting, and Business Insights**
-- 💬 Ask me about **Excel, SQL, Python, and Mobile Development basics**
-- 📫 How to reach me **aeita4@yahoo.com**
-- ⚡ Fun fact: **Every insight starts with raw data**
+💻 Software Developer | AI & System Optimization
+🚀 Passionate about building scalable applications and intelligent software solutions
+🛠️ Expertise in Software Engineering, Data Analysis, and System Architecture
+🎓 Computer Science Graduate | Building bridges between software and smart systems
+📫 Let's connect: aeita4@yahoo.com
 
 ---
 
