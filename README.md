@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamza</h1>
 <h3 align="center">
-Data Analyst | Computer Science Graduate | Mobile Development Background
+Software Developer
 </h3>
 
 ---
